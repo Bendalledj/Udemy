@@ -22,7 +22,7 @@ def udemy_link(title):
 urls = ['https://geeksgod.com/category/freecoupons/udemy-courses-free/']
 
 #banner
-system('figlet -f slant Freedemy | lolcat')
+system('figlet -f slant FreeCourse | lolcat')
 print(colored('- BY BendeLLaDj -'.center(50),'green'))
 system("echo '\033[0;37m'")
 
