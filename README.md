@@ -1,4 +1,4 @@
-# Step To Install 
+# Installation
 ```
 git clone https://github.com/Bendalledj/Udemy.git
 cd Udemy
